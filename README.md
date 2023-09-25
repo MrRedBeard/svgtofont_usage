@@ -1,3 +1,8 @@
+# See https://github.com/PEC-Development-Team/PEC-Font-Based-Icons
+
+
+-------------------------------------------------------------------------------------
+
 # -svgtofont_usage
 Usage of modded svgtofont library
 
